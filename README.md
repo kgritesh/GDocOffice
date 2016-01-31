@@ -38,5 +38,4 @@ Your Automator window should look like the this:
 
 ![Screenshot of Automator](docs/img/screenshot.png)
 
-**Now you can right click on any supported file format and select GDocOffice and the application will upload the file to Google Drive and open it in the correct google doc application in a new tab.
-**
+** Now you can right click on any supported file format and select GDocOffice and the application will upload the file to Google Drive and open it in the correct google doc application in a new tab.**
